@@ -1,6 +1,6 @@
 # INTERNSHIPS & FELLOWSHIPS
 
 ## US
-
-### INTERNSHIPS
+ 
+ Internships
 >
