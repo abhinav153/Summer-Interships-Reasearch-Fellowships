@@ -1,6 +1,6 @@
 # INTERNSHIPS & FELLOWSHIPS
 
-## US
+## North America
  
  Undergraduate Surf Programes
  
