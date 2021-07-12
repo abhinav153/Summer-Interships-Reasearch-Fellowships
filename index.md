@@ -2,7 +2,7 @@
 
 ## North America
  
- Undergraduate Surf Programes
+ Undergraduate  Programes
  
 > [Augmented Cogntion Lab-Northeastern-edu](https://web.northeastern.edu/ostadabbas/)<br>
 > ACLab works at the intersection of computer vision and machine learning.
