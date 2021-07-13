@@ -54,7 +54,7 @@
 >[Allen Institute for AI](https://allenai.org/careers#current-openings)<br>
 >Undergraduate or graduate students in AI-related fields are invited to apply for full-time research internships with us year-round. Applicants should have an interest in natural language processing, machine learning, knowledge representation, semantics, question answering, textual entailment, and/or computer vision. All interns are paired with a mentor and will participate directly in AI2's groundbreaking work. There are no restrictions on publications based on internships. International candidates are welcome to apply.
 
->[Global Talent Attraction Program-Luddy University](https://luddy.indiana.edu/research/student-research/fellowship.html)
+>[Global Talent Attraction Program-Luddy University](https://luddy.indiana.edu/research/student-research/fellowship.html)<br>
 >Application deadline - mid January<br>
 >GTAP Scholars can spend a summer conducting research with faculty from the Indiana University Luddy School of Informatics, Computing, and Engineering—a top technology and information school.
 
@@ -62,7 +62,7 @@
 >Application deadline - late February<br>
 >The International Student Research Internship Program is designed for students currently enrolled at an international university to participate in engineering research at Washington University in St. Louis during the summer months (May through September).Projects will be in the general areas of biomedical engineering, computer science, computer engineering, electrical engineering, systems engineering, chemical engineering, energy & environmental engineering, mechanical engineering & materials science.
 
->[BioChemCoRe-UC San Deigo](https://biochemcore.ucsd.edu/)
+>[BioChemCoRe-UC San Deigo](https://biochemcore.ucsd.edu/)<br>
 
 
 
@@ -86,7 +86,7 @@ Fellowships
 > [Geoffrey Hinton Fellowship](https://www.univ.ai/ghf)<br>
 > Geoffrey Hinton Fellows will be selected from top hackathon performers on the basis of hackathon scores followed by an interview.
 
->[The Smithsonian Institution Fellowship Program (SIFP)](https://ofi.si.edu/fellowship-opportunities/smithsonian-institution-fellowship-program/)
+>[The Smithsonian Institution Fellowship Program (SIFP)](https://ofi.si.edu/fellowship-opportunities/smithsonian-institution-fellowship-program/)<br>
 
 >[SHASTRI RESEARCH STUDENT FELLOWSHIP](https://www.shastriinstitute.org/SRSF-Student-2020-21)<br>
 >Application deadline - mid August<br>
@@ -121,7 +121,7 @@ Undergraduate Research Programmes
 >Application deadline - mid December<br>
 >The Student Summer Research Fellowship (ETH SSRF) program offers undergraduate and graduate students the opportunity to gain their first research experience in an area of their choice. The fellowship provided by the Computer Science Department of ETH takes place during two summer months and is open to all students worldwide. The department is committed to increasing diversity in the computer science area.
 
->[CERN](https://summerstudent.web.cern.ch/home)
+>[CERN](https://summerstudent.web.cern.ch/home)<br>
 >Application deadline-late January<br>
 >The Summer Student Programme is more than summer work. It's the chance to join CERN in Geneva - getting involved in the day-to-day work of our multicultural teams. Attend lectures, visit CERN facilities, take part in discussions and workshops with people who are leaders in their fields. In fact, it will be a summer like nowhere else on Earth!
 
@@ -197,7 +197,7 @@ Undergraduate Research Programs
 > Application Deadline - Feb<br>
 >The Amgen Scholars Program provides hundreds of selected undergraduate students with the opportunity to engage in a hands-on research experience at many of the world’s leading educational institutions. The Program seeks to increase learning and networking opportunities for students committed to pursuing science or engineering careers and to spark the interest and broaden the perspective of students considering scientific careers. Ultimately, the Program aims to increase the number of students pursuing advanced training and careers in the science
 
->[NTHU](http://eng-en.site.nthu.edu.tw/p/412-1060-3215.php)
+>[NTHU](http://eng-en.site.nthu.edu.tw/p/412-1060-3215.php)<br>
 >Application Deadline - mid January<br>
 >Summer Research Program is open to currently enrolled overseas university students with two years of completed college education and above (third year in your bachelor or above). Applicants will be accepted to one of the six disciplines under College of Engineering that best match their interest of study. Each student admitted will complete the program under the advisory of a professor. We also provide limited candidates with Global Engineer Leadership (GEL) scholarship with subsidized round trip airline tickets up to NTD 15,000 and free accommodation at university residence hall.
 
