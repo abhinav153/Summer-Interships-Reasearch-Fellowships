@@ -213,7 +213,7 @@ Undergraduate Research Programs
 
 >[ITRI Global Internship Program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)<br>
 
->>[Okinawa Institute of Science and Technology OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description)<br>
+>[Okinawa Institute of Science and Technology OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description)<br>
 >The OIST Graduate School offers education and research opportunities through our Research Intern program. The duration of the internship is typically from 2 to 6 months. These short-term placements give students the opportunity to gain experience in a particular laboratory or to learn a specific technique. Interns will work under the direction of a Professor and contribute to the research activities of OIST.
 
 
