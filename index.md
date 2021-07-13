@@ -2,7 +2,7 @@
 
 ## North America
  
- Undergraduate Research Programes
+ Undergraduate Research Programes/Industrial Research Internships
  
 > [Augmented Cogntion Lab-Northeastern-edu](https://web.northeastern.edu/ostadabbas/)<br>
 > ACLab works at the intersection of computer vision and machine learning.
@@ -53,8 +53,6 @@
 
 >[Allen Institute for AI](https://allenai.org/careers#current-openings)<br>
 >Undergraduate or graduate students in AI-related fields are invited to apply for full-time research internships with us year-round. Applicants should have an interest in natural language processing, machine learning, knowledge representation, semantics, question answering, textual entailment, and/or computer vision. All interns are paired with a mentor and will participate directly in AI2's groundbreaking work. There are no restrictions on publications based on internships. International candidates are welcome to apply.
-
-
 
 >
 
