@@ -135,6 +135,10 @@ Undergraduate Research Programmes
 
 >[CNIO-Summer training Programme](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)<br>
 
+>[DAAD-WISE](https://www.daad.in/en/2020/09/23/wise-working-internships-in-science-and-engineering-applications-invited/)<br>
+>Application deadline - around 1st Nov <br>
+>The programme targets Indian students pursuing a degree in the fields of science and engineering who wish to do a 2-3  months research internship at a publicly-funded German higher education institution or a research institute between the months of May-August.<br> 
+
 
 
 Summer Schools
