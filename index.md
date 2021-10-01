@@ -211,7 +211,7 @@ Undergraduate Research Programs
 
 >[International Visiting Internship Student Program-Hong Kong University](https://pg.ust.hk/prospective-students/programs/short-term-study/international-visiting-internship-student-program)
 
->[Summer Undergraduate Research Programme (SURP)@CHUK](http://www.summer.cuhk.edu.hk/surp/)
+>[Summer Undergraduate Research Programme (SURP)@CHUK](http://www.summer.cuhk.edu.hk/surp/)<br>
 >**Application deadline - mid March**<br>
 >The Summer Undergraduate Research Programme (SURP) provides an opportunity for undergraduate students from overseas universities to undertake research attachments for eight weeks at CUHK during the summer. Students will conduct research under the supervision of a CUHK faculty member and earn three credits upon successful completion of the programme.
 
