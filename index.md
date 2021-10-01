@@ -37,7 +37,7 @@
 >**Application deadline - September**<br>
 >Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from the following countries and regions: Australia, Brazil, China, Colombia, France, Germany, Hong Kong, India, Mexico, Taiwan, Tunisia, Ukraine, United Kingdom and the United States. From May to October of each year, top-ranked applicants participate in a 12-week research internship under the supervision of Canadian university faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences.
 
->[Robotics Institute Summer Scholars-CMU](https://riss.ri.cmu.edu/)
+>[Robotics Institute Summer Scholars-CMU](https://riss.ri.cmu.edu/)<br>
 >**Application deadline - mid January**<br>
 >CMU’s Robotics Institute Summer Scholars (RISS) program provides undergraduate students from over 50 countries around the world with opportunities to participate in a 11-week research immersion. You will explore robotics labs and topics, meet with leaders in the field, attend workshops, be coached and mentored, present and publish your research, and grow as a scholar.
 
