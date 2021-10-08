@@ -139,6 +139,12 @@ Undergraduate Research Programmes
 >**Application deadline - around 1st Nov** <br>
 >The programme targets Indian students pursuing a degree in the fields of science and engineering who wish to do a 2-3  months research internship at a publicly-funded German higher education institution or a research institute between the months of May-August.<br> 
 
+>[ALTO Asci intership programme](https://www.aalto.fi/en/aalto-science-institute/aalto-science-institute-asci-internship-programme)<br>
+>**Application deadline - around 31st January** <br>
+> The Aalto Science Institute internship programme offers undergraduate and master's students employment opportunities to participate first-hand in topical research, to interact with the premier research groups at Aalto University, and to network in an international environment. In support of AScI's role in internationalisation, the internships are open to students from all countries.<br>
+
+
+
 
 
 Summer Schools
