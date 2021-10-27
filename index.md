@@ -144,7 +144,7 @@ Undergraduate Research Programmes
 > The Aalto Science Institute internship programme offers undergraduate and master's students employment opportunities to participate first-hand in topical research, to interact with the premier research groups at Aalto University, and to network in an international environment. In support of AScI's role in internationalisation, the internships are open to students from all countries.<br>
 
 >[CAMP](https://www.in.tum.de/campar/news/news-single-view/article/camp-offers-up-to-5-international-undergraduate-excellence-awards-in-2021-to-the-best-international/)<br>
->**Application deadline - around 1st March**<br>
+>**Application deadline - around 15th February**<br>
 >The Chair for Computer Aided Medical Procedures (CAMP) is offering up to 5 research awards to strongly motivated international undergraduate students interested in improving their research skills in machine learning, medical imaging, computer vision, augmented reality. The students are required to pursue their undergraduate studies outside Germany.<br>
 
 
