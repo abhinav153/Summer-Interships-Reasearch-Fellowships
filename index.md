@@ -147,6 +147,10 @@ Undergraduate Research Programmes
 >**Application deadline - around 15th February**<br>
 >The Chair for Computer Aided Medical Procedures (CAMP) is offering up to 5 research awards to strongly motivated international undergraduate students interested in improving their research skills in machine learning, medical imaging, computer vision, augmented reality. The students are required to pursue their undergraduate studies outside Germany.<br>
 
+>[UROP - RWTHAACHEN](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/lidx/1/)<br>
+>**Application deadline- Jan 10th**<br>  
+>Research project supervisors publish their project ideas in the UROP projects database. There you can look at the complete offering and apply for a maximum of two different projects.<br>
+
 
 
 
